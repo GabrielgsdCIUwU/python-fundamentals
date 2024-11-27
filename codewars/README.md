@@ -13,3 +13,5 @@ En esta carpeta esta todos los katas que he ido resolviendo junto con los test y
 ## [Student's Final Grade](./Student's%20Final%20Grade/Details.md)
 
 ## [Take a Ten Minutes Walk](./Take%20a%20Ten%20Minutes%20Walk/Details.md)
+
+## [Is this a triangle?](./Is%20this%20a%20triangle❓/Details.md)
