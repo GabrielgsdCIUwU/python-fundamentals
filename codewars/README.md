@@ -21,3 +21,5 @@ En esta carpeta esta todos los katas que he ido resolviendo junto con los test y
 ## [Array.diff](./Array.diff/Details.md)
 
 ## [Who likes it?](./Who%20likes%20it❓/Details.md)
+
+## [Fuel Calculator Total Cost](./Fuel%20Calculator%20Total%20Cost/Details.md)
