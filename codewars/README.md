@@ -7,3 +7,5 @@ En esta carpeta esta todos los katas que he ido resolviendo junto con los test y
 ## [Even or Odd](./Even%20or%20Odd/Details.md)
 
 ## [Disemvowel Trolls](./Disemvowel%20Trolls/Details.md)
+
+## [Multiples of 3 or 5](./Multiples%20of%203%20or%205/Details.md)
