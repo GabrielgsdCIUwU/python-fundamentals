@@ -13,3 +13,4 @@ En este repositorio está todos los notebooks para saber como es programar con p
 - Información de todos los KATAs de codewars con:
     - Código fuente.
     - Casos test.
+    - Details.md: Toda la información sobre el kata.
