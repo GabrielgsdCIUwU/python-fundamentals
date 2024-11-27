@@ -19,3 +19,5 @@ En esta carpeta esta todos los katas que he ido resolviendo junto con los test y
 ## [Replace With Alphabet Position](./Replace%20With%20Alphabet%20Position/Details.md)
 
 ## [Array.diff](./Array.diff/Details.md)
+
+## [Who likes it?](./Who%20likes%20it❓/Details.md)
