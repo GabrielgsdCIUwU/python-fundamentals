@@ -9,3 +9,5 @@ En esta carpeta esta todos los katas que he ido resolviendo junto con los test y
 ## [Disemvowel Trolls](./Disemvowel%20Trolls/Details.md)
 
 ## [Multiples of 3 or 5](./Multiples%20of%203%20or%205/Details.md)
+
+## [Student's Final Grade](./Student's%20Final%20Grade/Details.md)
