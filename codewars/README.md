@@ -17,3 +17,5 @@ En esta carpeta esta todos los katas que he ido resolviendo junto con los test y
 ## [Is this a triangle?](./Is%20this%20a%20triangle❓/Details.md)
 
 ## [Replace With Alphabet Position](./Replace%20With%20Alphabet%20Position/Details.md)
+
+## [Array.diff](./Array.diff/Details.md)
