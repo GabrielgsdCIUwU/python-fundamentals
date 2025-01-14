@@ -33,3 +33,9 @@ En este Notebook se ve:
 - Por qué se usa try
 - Como se usa
 - Comportamiento del try, except, else y finally
+
+## [Conjuntos](./notebooks/conjuntos.ipynb)
+En este Notebook se ve:
+- Sets
+- Operaciones con los Sets
+- Vistas diccionario y Sets
